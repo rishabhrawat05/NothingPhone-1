@@ -8,7 +8,7 @@ function locomotive(){
 const locoScroll = new LocomotiveScroll({
   el: document.querySelector("#main"),
   smooth: true,
-  smoothMobile:0.3,
+  smoothMobile:0.1,
   
 });
 // each time Locomotive Scroll updates, tell ScrollTrigger to update too (sync positioning)
