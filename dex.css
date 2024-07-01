@@ -601,20 +601,6 @@ html,body{
     background-color: #000;
     position: relative;
 }
-#page3 #imgdiv4{
-    height: 100%;
-    width: 40%;
-    position: absolute;
-    background-image: url(./NothingPhoneImages/BA_ABR_310_1031.webp);
-    background-position: center;
-    background-size: cover;
-    left: 53%;
-    top: -37%;
-    transform: translate(-50%,-50%);
-    z-index: 2;
-    rotate: -90deg;
-    
-}
 #page3 #imgdiv5{
     height: 65%;
     width: 45%;
@@ -626,7 +612,6 @@ html,body{
     top: 100%;
     transform: translate(-50%,-50%);
     z-index: 3; 
-    
     opacity: 0;
 }
 #page3 h1{
@@ -635,7 +620,6 @@ html,body{
     position: absolute;
     top: 50%;
     left: 51%;
-    
     transform: translate(-50%,-50%);
     font-family: kor;
     font-size:50vh;
