@@ -1,4 +1,4 @@
-# Nothing Phone (1) - Website Clone
+# Nothing Phone (1) - Website Redesigned
 
 A stunning, interactive website showcasing the Nothing Phone (1) with smooth animations, scroll effects, and a modern design aesthetic.
 
